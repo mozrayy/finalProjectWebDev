@@ -1,5 +1,5 @@
 # finalProjectWebDev
-
+<!-- 
 Final Project Task Breakdown & Weekly Assignments
 Planning & Research
 
@@ -72,10 +72,11 @@ Ensure everything is working correctly
 
 Week #1 Tasks:
 Each team member will take on a specific task to complete by the end of the week. At the end of the week, we will check progress, update the task list if needed, and assign new tasks.
+
 Ray: Look for inspirations, Make a design, mind-map
 
 
 Thomas: Look for inspirations, Make a design, reflection
 
 
-Edwin: Look for inspirations, Make a design, client response
+Edwin: Look for inspirations, Make a design, client response -->
