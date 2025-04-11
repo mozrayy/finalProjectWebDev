@@ -1,7 +1,17 @@
 @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css');
+
+/* Logo */
+.logo img{
+    margin-left: 10px;
+    width: 100px;
+    height: auto;
+    border-radius: 90%;
+}
+
+/* Icons */
 .icons ul {
     display: flex;
-    margin-left: 175px;
+    margin-left: 75px;
     gap: 25px;
     padding: 10px;
     list-style: none;
@@ -15,8 +25,8 @@
     display: flex;
     width: 40px;
     height: 40px;
-    background: #18191fc4;
-    border-radius: 30px;
+    background: #121217c4;
+    border-radius: 15px;
     box-shadow:
         -2px -2px 3px #ffffff0d,
         3px 3px 3px #00000000;
@@ -28,7 +38,7 @@
 
 .icons .fa-brands {
     font-size: 29px;
-    color: #555;
+    color: #a5a5a5;
 }
 
 .icons a:hover .fa-brands {
@@ -42,10 +52,6 @@
 
 .icons li:nth-child(3) {
     --color: #1f7ce0;
-}
-
-.icons li:nth-child(4) {
-    --color: #ae52d5;
 }
 
 /* Review Section*/
