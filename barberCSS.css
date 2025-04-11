@@ -1,0 +1,75 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css');
+.icons ul {
+    display: flex;
+    margin-left: 175px;
+    gap: 25px;
+    padding: 10px;
+    list-style: none;
+}
+
+.icons li {
+    --color: #ebe4e5;
+}
+
+.icons a {
+    display: flex;
+    width: 40px;
+    height: 40px;
+    background: #18191fc4;
+    border-radius: 30px;
+    box-shadow:
+        -2px -2px 3px #ffffff0d,
+        3px 3px 3px #00000000;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    transition: all .2s ease-in-out;
+}
+
+.icons .fa-brands {
+    font-size: 29px;
+    color: #555;
+}
+
+.icons a:hover .fa-brands {
+    color: var(--color);
+    text-shadow: 0 0 30px;
+}
+
+.icons li:nth-child(2) {
+    --color: #d84766;
+}
+
+.icons li:nth-child(3) {
+    --color: #1f7ce0;
+}
+
+.icons li:nth-child(4) {
+    --color: #ae52d5;
+}
+
+/* Review Section*/
+.person1{
+    margin-right: 500px;
+    margin-top: 5px;
+    width: 200px;
+    height: 200px;
+    border-radius: 90%;
+    object-fit: cover;
+}
+.person2{
+    margin-right: 500px;
+    margin-top: 5px;
+    width: 200px;
+    height: 200px;
+    border-radius: 90%;
+    object-fit: cover;
+}
+.person3{
+    margin-right: 500px;
+    margin-top: 5px;
+    width: 200px;
+    height: 200px;
+    border-radius: 90%;
+    object-fit: cover;
+}
