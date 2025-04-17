@@ -80,3 +80,25 @@ Thomas: Look for inspirations, Make a design, reflection
 
 
 Edwin: Look for inspirations, Make a design, client response -->
+
+Week #2 Tasks:
+Ray: 
+Set up the basic structure of the homepage HTML
+Add the logo placeholder, navigation bar structure, and book now button
+Create the welcome message and image placeholder
+Edwin:
+Add the about/history section to the homepage
+Add a image placeholder
+Add Social Media emblems and links
+Thomas:
+Add the services preview section
+Add the reviews with image placeholders
+Add booking page and footer
+
+Week #3 Tasks:
+Ray: 
+Make corrections and tweaks to the CSS(e.g-Change fonts, colors, images)
+Edwin:
+Make corrections and tweaks to the CSS(e.g-Change fonts, colors, images)
+Thomas:
+Make corrections and tweaks to the CSS(e.g-Change fonts, colors, images)
