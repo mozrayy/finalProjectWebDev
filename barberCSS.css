@@ -14,12 +14,12 @@
 
 #WelcomeImage{
     position: relative;
-    background-image: url("images/possibleBack.png");
+    background-image: url("images/barbershop.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top;
     width: 100%;
-    height: 500px;
+    height: 650px;
 }
 
 #WelcomeImage .heading{
