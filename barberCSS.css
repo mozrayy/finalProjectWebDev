@@ -29,6 +29,9 @@
     left: 50%;
     transform: translate(-50%, -50%);
     font-size:40px;
+    text-shadow:
+    -2px -2px 3px #000000,
+    3px 3px 3px #0000007e;
 }
 
 #WelcomeImage .text{
@@ -38,6 +41,9 @@
     left: 50%;
     transform: translate(-50%, -50%);
     font-size:30px;
+    text-shadow:
+    -2px -2px 3px #000000,
+    3px 3px 3px #0000007e;
 }
 
 #content{
